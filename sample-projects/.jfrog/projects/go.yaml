@@ -1,0 +1,8 @@
+version: 1
+type: go
+resolver:
+  repo: devops101-gocenter
+  serverId: aol
+deployer:
+  repo: devops101-go
+  serverId: aol

@@ -1,5 +1,6 @@
-# Workshop: DevOps 101 for Go developers ![1200px-Go_gopher_favicon svg](https://user-images.githubusercontent.com/25744447/144277903-f0955f64-a94a-47ef-9d43-5aa392d8aff2.png)
+# Workshop: DevOps 101 for Go developers ! 
 
+![1200px-go_gopher_favicon-svg](https://user-images.githubusercontent.com/25744447/144278749-94f3a1cd-48a4-4888-a7fd-31721cf8f7f9.png)
 
 ## Course Description
 

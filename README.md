@@ -10,7 +10,11 @@ When you’re new to an industry, you encounter a lot of new concepts. This can 
 1. [JFrog Cloud account](https://jfrog.com/artifactory/start-free/#saas)
 
     This is free, no credit card required. It includes access to Artifactory and Xray, with a limited amount of storage transfer.
+
+2. [JFrog CLI](https://www.jfrog.com/confluence/display/CLI/JFrog+CLI)
     
+    JFrog CLI is an open source project written in Go the JFrog CLI is a tool which provides a simple interface that helps to interact with all JFrog's products.
+
 3. Go
 
     We will need to package a simple Go application. Go client version 1.11.0 and above is required.
@@ -51,6 +55,8 @@ When you’re new to an industry, you encounter a lot of new concepts. This can 
 [Artifactory Documentation](https://www.jfrog.com/confluence/display/JFROG/Package+Management)
 
 [Xray Documentation](https://www.jfrog.com/confluence/display/JFROG/Xray+Security+and+Compliance)
+
+[JFrog CLI Documentation](https://www.jfrog.com/confluence/display/CLI/JFrog+CLI)
 
 [Pipelines Documentation](https://www.jfrog.com/confluence/display/JFROG/Pipelines+Developer+Guide)
 

@@ -27,7 +27,7 @@ This step will walk you through creating a Go repository type and creating your 
 
     - From the main UI, clicking Artifactory -> Artifacts should now show you three new repositories with your prefix like: devops101-go, devops101-go-local, and devops101-go-remote.
 
-[Create repo](https://user-images.githubusercontent.com/25744447/144276635-c70ed948-9ac1-4b7c-ba0e-66dc193119e8.gif)
+![Create repo](https://user-images.githubusercontent.com/25744447/144276926-75cf1402-522b-4f80-a086-c53b617eeda1.gif)
 
 2. Configure the JFrog CLI
 

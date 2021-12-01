@@ -53,4 +53,5 @@ When you’re new to an industry, you encounter a lot of new concepts. This can 
 [Xray Documentation](https://www.jfrog.com/confluence/display/JFROG/Xray+Security+and+Compliance)
 
 [Pipelines Documentation](https://www.jfrog.com/confluence/display/JFROG/Pipelines+Developer+Guide)
-# devops-101-workshop-go-developers
+
+![alt text](https://dev-to-uploads.s3.amazonaws.com/i/brm2ce1pq1yu23ifc7wi.jpg)

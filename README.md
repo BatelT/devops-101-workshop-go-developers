@@ -17,7 +17,7 @@ When you’re new to an industry, you encounter a lot of new concepts. This can 
     
     JFrog CLI is an open source project written in Go the JFrog CLI is a tool which provides a simple interface that helps to interact with all JFrog's products.
 
-3. Go
+3. [Go](https://go.dev/doc/install)
 
     We will need to package a simple Go application. Go client version 1.11.0 and above is required.
 

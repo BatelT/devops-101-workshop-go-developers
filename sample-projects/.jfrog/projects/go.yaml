@@ -1,8 +1,8 @@
 version: 1
 type: go
 resolver:
-  repo: devops101-gocenter
-  serverId: aol
+  repo: devops101-go-remote
+  serverId: Default-Server
 deployer:
   repo: devops101-go
-  serverId: aol
+  serverId: Default-Server

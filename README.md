@@ -1,26 +1,23 @@
-# Workshop: DevOps 101
+# Workshop: DevOps 101 for Go developers 
 
 ## Course Description
 
-When you’re new to an industry, you encounter a lot of new concepts. This can make it really difficult to get your feet underneath you on an unfamiliar landscape, especially for junior engineers. What does DevOps really mean? What’s all this software? What’s all this jargon? Is DevOps a methodology, or a toolset? Is any of this actually going to make my life easier, or is it just a bunch of industry buzzwords? I’ll answer all of these questions (and more) during this hands-on workshop, and get you set up with an end-to-end DevOps solution to automate your build artifact storage, vulnerability detection, testing, and deployment. For profit and glory!
+When you’re new to an industry, you encounter a lot of new concepts. This can make it really difficult to get your feet underneath you on an unfamiliar landscape, especially for junior engineers. What does DevOps really mean? What’s all this software? What’s all this jargon? Is DevOps a methodology, or a toolset? Is any of this actually going to make my life easier, or is it just a bunch of industry buzzwords? I’ll answer all of these questions (and more) during this hands-on workshop, and get you set up with an end-to-end DevOps solution to automate your build artifact storage, vulnerability detection, testing, and deployment.
 
 
 ## Prerequisites
 
 1. [JFrog Cloud account](https://jfrog.com/artifactory/start-free/#saas)
 
-    This is free, no credit card required. It includes access to Artifactory and Xray, with a limited amount of storage transfer. 
-2. Docker
+    This is free, no credit card required. It includes access to Artifactory and Xray, with a limited amount of storage transfer.
+    
+3. Go
 
-    The Docker client should be installed and configured on your machine.
-
-3. Python3
-
-    We will need to package a simple Python application. Python 3.6 or higher is required.
+    We will need to package a simple Go application. Go client version 1.11.0 and above is required.
 
 4. Code editor
 
-    Whatever you are most comfortable with. I will be using SublimeText. 
+    Whatever you are most comfortable with. I will be using VScode. 
 
 
 ## Course Outline
@@ -37,9 +34,7 @@ When you’re new to an industry, you encounter a lot of new concepts. This can 
 - What are build artifacts?
 - Why might you need to manage your build artifacts?
 - Binary repository setup in Artifactory
-    - Docker
-    - PyPi
-
+    - Go
 
 ### [Xray Module](https://github.com/batelt/devops-101-workshop/blob/master/docs/xray.md)
 - Why do devs need to worry about vulnerability detection and license compliance?

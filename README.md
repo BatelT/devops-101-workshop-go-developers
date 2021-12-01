@@ -23,7 +23,7 @@ When you’re new to an industry, you encounter a lot of new concepts. This can 
 
 4. Code editor
 
-    Whatever you are most comfortable with. I will be using VScode. 
+    Whatever you are most comfortable with. I will be using [VScode](https://code.visualstudio.com/). 
 
 
 ## Course Outline

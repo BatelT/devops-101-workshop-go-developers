@@ -37,7 +37,7 @@ This step will walk you through creating a Go repository type and creating your 
     
     - Configure the project's Go repositories using the command:
         
-        $ jfrog rt go-config
+        $ jfrog go-config
 
     - Resolve the project dependencies from Artifactory and create a build 
 
@@ -45,7 +45,7 @@ This step will walk you through creating a Go repository type and creating your 
         
     - Publish version v1.0.0 of the package to the go-local repository in Artifactory
     
-        $ jfrog rt gp go v1.0.0 --build-name=go-workshop-build --build-number=1
+        $ jfrog rt gp v1.2.3 --build-name=go-workshop-build --build-number=1
 
     - Collect environment variables and add them to the build info
         
